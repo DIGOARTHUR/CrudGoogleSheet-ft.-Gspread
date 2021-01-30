@@ -8,10 +8,11 @@ logger = logging.getLogger('root')
 
 
 def connectGoogleSheets():
-    logger.info('Connecting Google Sheets Engenharia de Software Desafio [Diego Arthur]')
+
     gc = gspread.service_account(filename='credentials.json')  # API connection
     sh = gc.open_by_key('1Zeb0XsDxwcDERDv86uqenam2hBoerbu0Sagk6q4CzZ0')  # table id GoogleSheets
     worksheet = sh.sheet1  # Object that will give conditions and functions to access the table: Create, Read, Update and Delete, for example.
+    logger.info('Connecting Google Sheets Engenharia de Software Desafio [Diego Arthur]')
     return worksheet
 
 
@@ -19,7 +20,7 @@ def updateSituation_checkingFrequency():
     logger.info('       Update Situation')
     worksheet.update_cell(row, 7, 'Reprovado por Falta')
     worksheet.update_cell(row, 8, 0)
-    logger.info('           Score for final approval')
+    logger.info('           Score for final exam')
 
 
 def sumScore(totalScore):
@@ -38,18 +39,18 @@ def updateSituation_checkingScore(situation):
     if situation == 1:
         worksheet.update_cell(row, 7, 'Reprovado por Nota')
         worksheet.update_cell(row, 8, 0)
-        logger.info('           Score for final approval')
+        logger.info('           Score for final exam')
     elif situation == 2:
         worksheet.update_cell(row, 7, 'Exame Final')
 
         naf = str(math.ceil((50 * 2) - m))  # Being 5 <= (m + naf)/2, have
         naf = '>=' + naf
         worksheet.update_cell(row, 8, naf)
-        logger.info('           Score for final approval')
+        logger.info('           Score for final exam')
     elif situation == 3:
         worksheet.update_cell(row, 7, 'Aprovado')
         worksheet.update_cell(row, 8, 0)
-        logger.info('           Score for final approval')
+        logger.info('           Score for final exam')
 
 
 ########  MAIN  ################
