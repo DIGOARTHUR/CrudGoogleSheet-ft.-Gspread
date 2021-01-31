@@ -13,10 +13,14 @@
 </p>
  <ul>
    <li><img  alt="iconDownload"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106370136-08166000-6336-11eb-8327-6fabcd50044a.png"></img>
-If the system does not have python 3, install python 3 via the link: <a href="https://www.python.org/downloads/">Download Python 3</a> 
+If the system does not have python 3, install python 3 via the link: <a href="https://www.python.org/downloads/">Download Python 3</a>  
+  <p align="center">
+   <img  alt="gif_"  width="524" height="332" src="https://user-images.githubusercontent.com/59892368/106393036-67767d80-63d3-11eb-9e21-615b3c3bbf9f.png"></img>
+</p>
+
 </li>
 
-   <li><img  alt="img_CommandPropt"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106384969-86154e00-63ac-11eb-9c87-ce0e8d227ef6.png"></img> Open CMD, type or copy and paste " pip install gspread " and press Enter.
+   <li><img  alt="img_CommandPropt"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106384969-86154e00-63ac-11eb-9c87-ce0e8d227ef6.png"></img> Open CMD, type or copy and paste " pip install gspread " and press Enter. [Obs: The execution has to be as administrator.]
    <p align="center">
    <img  alt="gif_"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/106384311-ee623080-63a8-11eb-9bf6-da6618680e6d.gif"></img>
 </p>
