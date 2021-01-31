@@ -24,8 +24,12 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
   
   
    
-   <li><img  alt="img_PowerShell"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106384881-0e472380-63ac-11eb-8243-54a2d45fa919.png"></img>
-   Open the file folder CRUDGoogleSheets and in the address bar type PowerShell type " python main.py ".
+   <li><img  alt="img_PowerShell"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106384881-0e472380-63ac-11eb-8243-54a2d45fa919.png"></img>
+   Open the file folder CRUDGoogleSheets and in the address bar type " powershell ", in powershell type " python main.py "  DONE !.
+     <p align="center">
+   <img  alt="gif_"  width="800" height="500" src="https://user-images.githubusercontent.com/59892368/106386415-a0065f00-63b3-11eb-8e86-2f55ebadf5a3.gif"></img>
+</p>
+   
 </li>
 </ul>
 
