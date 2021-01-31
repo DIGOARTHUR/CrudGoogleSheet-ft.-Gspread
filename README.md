@@ -11,19 +11,22 @@
 </p>
  <ul>
    <li><img  alt="iconDownload"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106370136-08166000-6336-11eb-8327-6fabcd50044a.png"></img>
-If the system does not have python 3, install python 3 via the link: <a href="https://www.python.org/downloads/">Download Python 3</a> </li>
-   <li><img  alt="skills"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106370136-08166000-6336-11eb-8327-6fabcd50044a.png"></img> Open CMD, type or copy and paste 'pip install gspread' and press Enter.
-   
+If the system does not have python 3, install python 3 via the link: <a href="https://www.python.org/downloads/">Download Python 3</a> 
+</li>
+
+   <li><img  alt="img_CommandPropt"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106384969-86154e00-63ac-11eb-9c87-ce0e8d227ef6.png"></img> Open CMD, type or copy and paste " pip install gspread " and press Enter.
    <p align="center">
-   <img  alt="img_CommandPropt"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/106384311-ee623080-63a8-11eb-9bf6-da6618680e6d.gif"></img>
+   <img  alt="gif_"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/106384311-ee623080-63a8-11eb-9bf6-da6618680e6d.gif"></img>
 </p>
    </li>
   
   
   
+  
    
-   
-   <li></li>
+   <li><img  alt="img_PowerShell"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106384881-0e472380-63ac-11eb-8243-54a2d45fa919.png"></img>
+   Open the file folder CRUDGoogleSheets and in the address bar type PowerShell type " python main.py ".
+</li>
 </ul>
 
 
