@@ -74,7 +74,7 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
 </p>
 
 
-<h1>... EM CONSTRUÇÃO  </h1>
+<h1>... SOON MORE DOCUMENTATION UPDATES</h1>
  
  
  
