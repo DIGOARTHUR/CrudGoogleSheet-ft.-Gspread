@@ -52,15 +52,15 @@ Gspread is an API that allows access to Google Spreadsheet, being for:
  </li>
  
  <li>
- Read
+  <img  alt="img_Create"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475094-546fb600-6484-11eb-85b6-127f64e7b574.png"></img> Read
  </li>
  
  <li>
- Update
+ <img  alt="img_Create"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475083-5174c580-6484-11eb-99f2-f7b54af686d6.png"></img> Update
  </li>
  
  <li>
- Delete
+ <img  alt="img_Create"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475088-52a5f280-6484-11eb-9bb1-0c3a62a494bc.png"></img> Delete
  </li>
 
 </ul>
