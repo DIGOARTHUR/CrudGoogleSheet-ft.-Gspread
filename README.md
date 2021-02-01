@@ -49,9 +49,9 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
 </p>
 
  <p>
-    <h3 align="rigth"> <img  alt="icon_API_Gspread"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/106465617-f4274700-6478-11eb-84ff-02f8a39fbc69.png"></img> GSPREAD </h3>
+    <h3 align="rigth"> <img  alt="icon_API_Gspread"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/106465617-f4274700-6478-11eb-84ff-02f8a39fbc69.png"></img> GSPREAD </h3> Gspread is an API that allows access to Google Spreadsheet, being for:
 </p>
-Gspread is an API that allows access to Google Spreadsheet, being for:
+
 
 <ul>
 <li>
