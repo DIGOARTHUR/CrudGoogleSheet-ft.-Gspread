@@ -48,7 +48,7 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
 Gspread is an API that allows access to Google Spreadsheet, being for:
 <ul>
 <li>
- Creation
+ <img  alt="img_Create"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106473765-f1c9ea80-6482-11eb-9b4d-ba4c77baa29f.png"></img> Creation
  </li>
  
  <li>
