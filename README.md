@@ -41,26 +41,33 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
 
 <hr/>
 
+
+
+
  <p>
-    <h2 align="rigth"> <img  alt="skills"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/106465617-f4274700-6478-11eb-84ff-02f8a39fbc69.png"></img> GSPREAD </h2>
+    <h1 align="rigth"> <img  alt="icon_CreatingApplication"  width="60" height="60" src="https://user-images.githubusercontent.com/59892368/106482690-753c0980-648c-11eb-90bb-fce9aa3dc602.png"></img> Creating your application: </h1>
 </p>
 
+ <p>
+    <h3 align="rigth"> <img  alt="icon_API_Gspread"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/106465617-f4274700-6478-11eb-84ff-02f8a39fbc69.png"></img> GSPREAD </h3>
+</p>
 Gspread is an API that allows access to Google Spreadsheet, being for:
+
 <ul>
 <li>
- <img  alt="img_Create"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106473765-f1c9ea80-6482-11eb-9b4d-ba4c77baa29f.png"></img> Creation
+ <img  alt="icon_Create"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106473765-f1c9ea80-6482-11eb-9b4d-ba4c77baa29f.png"></img> Creation
  </li>
  
  <li>
-  <img  alt="img_Create"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475094-546fb600-6484-11eb-85b6-127f64e7b574.png"></img> Read
+  <img  alt="icon_Read"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475094-546fb600-6484-11eb-85b6-127f64e7b574.png"></img> Read
  </li>
  
  <li>
- <img  alt="img_Create"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475083-5174c580-6484-11eb-99f2-f7b54af686d6.png"></img> Update
+ <img  alt="icon_Update"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475083-5174c580-6484-11eb-99f2-f7b54af686d6.png"></img> Update
  </li>
  
  <li>
- <img  alt="img_Create"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475088-52a5f280-6484-11eb-9bb1-0c3a62a494bc.png"></img> Delete
+ <img  alt="icon_Delete"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475088-52a5f280-6484-11eb-9bb1-0c3a62a494bc.png"></img> Delete
  </li>
 
 </ul>
