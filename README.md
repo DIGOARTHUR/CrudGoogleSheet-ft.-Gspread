@@ -67,18 +67,21 @@ Here we will show you step by step from creating a project on Google Cloud Platf
 Link access: <a href="https://console.cloud.google.com/home/dashboard"  target="_blank">Access to spreadsheets</a> 
 
  <p align="center">
-   <img  alt="gif_"  width="1000" height="500" src="https://user-images.githubusercontent.com/59892368/106952976-9a40ae80-6710-11eb-9651-52a3029faf2c.gif"></img>
+   <img  alt="gif_1Step"  width="1000" height="500" src="https://user-images.githubusercontent.com/59892368/106952976-9a40ae80-6710-11eb-9651-52a3029faf2c.gif"></img>
 </p>
  
  
- 
- 
+ </li>
 
  
- </li>
  
  <li>
-  
+   2º Step: Enable the APIs
+ 
+  <p align="center">
+   <img  alt="gif_2Step"  width="1000" height="500" src="https://user-images.githubusercontent.com/59892368/106958395-0ffc4880-6718-11eb-8ef5-2395290fa5d0.gif"></img>
+</p>
+ 
  </li>
  
  <li>
