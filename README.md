@@ -31,7 +31,7 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
   
    
    <li><img  alt="img_PowerShell"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106384881-0e472380-63ac-11eb-8243-54a2d45fa919.png"></img>
-   Open the file folder CRUDGoogleSheets and in the address bar type " powershell ", in powershell window type " python main.py " and press Enter.  DONE ! Link: <a href="https://docs.google.com/spreadsheets/d/1Zeb0XsDxwcDERDv86uqenam2hBoerbu0Sagk6q4CzZ0/edit?usp=sharing">Access to spreadsheets</a> 
+   Open the file folder CRUDGoogleSheets and in the address bar type " powershell ", in powershell window type " python main.py " and press Enter.  DONE ! Link: <a href="https://docs.google.com/spreadsheets/d/1Zeb0XsDxwcDERDv86uqenam2hBoerbu0Sagk6q4CzZ0/edit?usp=sharing"  target="_blank">Access to spreadsheets</a> 
 
  <p align="center">
    <img  alt="gif_"  width="800" height="500" src="https://user-images.githubusercontent.com/59892368/106386415-a0065f00-63b3-11eb-8e86-2f55ebadf5a3.gif"></img>
@@ -63,7 +63,7 @@ Here we will show you step by step from creating a project on Google Cloud Platf
 <li>
  1º Step: Creating a project on Google Cloud Platform
  
- Acesse o link: Link: <a href="https://console.cloud.google.com/home/dashboard">Access to spreadsheets</a> 
+ Acesse o link: Link: <a href="https://console.cloud.google.com/home/dashboard"  target="_blank">Access to spreadsheets</a> 
  
  
 
