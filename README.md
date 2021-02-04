@@ -31,7 +31,7 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
   
    
    <li><img  alt="img_PowerShell"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106384881-0e472380-63ac-11eb-8243-54a2d45fa919.png"></img>
-   Open the file folder CRUDGoogleSheets and in the address bar type " powershell ", in powershell window type " python main.py " and press Enter.  DONE ! [Only the company has access to the spreadsheet.] 
+   Open the file folder CRUDGoogleSheets and in the address bar type " powershell ", in powershell window type " python main.py " and press Enter.  DONE ! Link: <a href="https://docs.google.com/spreadsheets/d/1Zeb0XsDxwcDERDv86uqenam2hBoerbu0Sagk6q4CzZ0/edit?usp=sharing">Access to spreadsheets</a> 
 
  <p align="center">
    <img  alt="gif_"  width="800" height="500" src="https://user-images.githubusercontent.com/59892368/106386415-a0065f00-63b3-11eb-8e86-2f55ebadf5a3.gif"></img>
@@ -52,7 +52,31 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
     <h1 align="rigth"> <img  alt="icon_CreatingApplication"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/106482690-753c0980-648c-11eb-90bb-fce9aa3dc602.png"></img> Creating your application: </h1>
 </p>
 
+<p>
+<img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106907676-49fc2900-66dd-11eb-9f06-9cb7815aff69.png"></img> 
+The file available here can be reused as long as you change the GoogleSheets access addresses. We'll see that in the topics below.
+</p>
 
+Here we will show you step by step from creating a project on Google Cloud Platform to use the APIs to running the Python program interacting with GoogleSheets.
+
+<ul>
+<li>
+ 1º Step: Creating a project on Google Cloud Platform. 
+ </li>
+ 
+ <li>
+  
+ </li>
+ 
+ <li>
+
+ </li>
+ 
+ <li>
+
+ </li>
+
+</ul>
 
 
 
@@ -84,10 +108,13 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
 </ul>
 
 
+<!-- ------------------------------------------------------------------------------------->
+<!-- -------------------------------------------- SOURCES  ------------------------>
+<!-- ------------------------------------------------------------------------------------->
+<h3><img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106905459-11f3e680-66db-11eb-9c4d-6b45c1cb8c16.png"></img>
+SOURCES:</h3>
 
-
-
-<h1><img  alt="icon_CreatingApplication"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/106508490-37021280-64ab-11eb-81e0-3ca45e0eb38a.png"></img>
+<h2><img  alt="icon_CreatingApplication"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/106508490-37021280-64ab-11eb-81e0-3ca45e0eb38a.png"></img>
 ... SOON MORE DOCUMENTATION UPDATES</h1>
  
  
