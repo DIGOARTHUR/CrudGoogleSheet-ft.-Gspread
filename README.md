@@ -85,11 +85,21 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
  </li>
  
  <li>
-
+ 3º Step: Creation of credentials to generate the spreadsheet access protocol using a key, for example.
+ 
+  <p align="center">
+   <img  alt="gif_3Step"  width="1000" height="450" src="https://user-images.githubusercontent.com/59892368/107101957-ace1e300-67f7-11eb-8618-69c81c39ad81.gif"></img>
+</p>
+ 
  </li>
  
  <li>
-
+ 4º Step: Create a key to access the spreadsheet, either publicly or privately.
+ 
+  <p align="center">
+   <img  alt="gif_3Step"  width="1000" height="450" src="https://user-images.githubusercontent.com/59892368/107101957-ace1e300-67f7-11eb-8618-69c81c39ad81.gif"></img>
+</p>
+ 
  </li>
 
 </ul>
