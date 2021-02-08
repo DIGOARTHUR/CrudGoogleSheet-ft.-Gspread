@@ -96,7 +96,7 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
  </li>
  
  <li>
- 4º Step: Create a key to access the spreadsheet, either publicly or privately.
+ 4º Step: Create a key to access the spreadsheet.
  
  
  
