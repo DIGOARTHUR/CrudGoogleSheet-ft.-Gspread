@@ -53,13 +53,19 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
 </p>
 
 <p>
-<img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106907676-49fc2900-66dd-11eb-9f06-9cb7815aff69.png"></img> 
+<img  alt="icon_Ideia"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106907676-49fc2900-66dd-11eb-9f06-9cb7815aff69.png"></img> 
 The file available here can be reused as long as you change the SpreadSheets access addresses. We'll see that in the topics below.
 </p>
 
 Here we will show you step by step from creating a project on Google Cloud Platform to use the APIs to running the Python program interacting with GoogleSheets.
 
+<p>
+<img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107301296-fdf11180-6a59-11eb-9315-a3eb7fade08b.png"></img> 
+| Google Cloud Platform |
+</p>
+
 <ul>
+
 <li>
  1º Step: Creating a project on Google Cloud Platform
  
@@ -109,6 +115,10 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
 </ul>
 
+<p>
+<img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107302685-7c4eb300-6a5c-11eb-9020-c56443bd93d7.png"></img> 
+| PyCharm |
+</p>
 
 
 <!-- ------------------------------------------------------------------------------------->
