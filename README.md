@@ -68,8 +68,8 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
   <p align="center">
  
- 
- <img  alt="gif_1Step"  width="850" height="450" src="https://user-images.githubusercontent.com/59892368/107163591-252bde00-6989-11eb-9078-4adb36ac2397.gif"></img>
+ [![](http://img.youtube.com/vi/8MxU4oGMolw/0.jpg)](http://www.youtube.com/watch?v=8MxU4oGMolw "1º Step: Creating a project on Google Cloud Platform")
+
 </p>
  
  
