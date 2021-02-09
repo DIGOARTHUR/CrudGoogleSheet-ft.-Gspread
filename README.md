@@ -81,7 +81,9 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
    2º Step: Enable the APIs
  
   <p align="center">
-   <img  alt="gif_2Step"  width="850" height="450" src="https://user-images.githubusercontent.com/59892368/106958395-0ffc4880-6718-11eb-8ef5-2395290fa5d0.gif"></img>
+ 
+  [![](http://img.youtube.com/vi/DSTv81_Oy9w/0.jpg)](http://www.youtube.com/watch?v=DSTv81_Oy9w "2º Step: Enable the APIs")
+  
 </p>
  
  </li>
@@ -90,7 +92,9 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
  3º Step: Creation of credentials to generate the spreadsheet access certificate using a key.
  
   <p align="center">
-   <img  alt="gif_3Step"  width="850" height="450" src="https://user-images.githubusercontent.com/59892368/107101957-ace1e300-67f7-11eb-8618-69c81c39ad81.gif"></img>
+ 
+  [![](http://img.youtube.com/vi/B0IUTBZtQTM/0.jpg)](http://www.youtube.com/watch?v=B0IUTBZtQTM "3º Step: Creation of credentials to generate the spreadsheet access certificate using a key.")
+  
 </p>
  
  </li>
@@ -98,6 +102,7 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
  <li>
  4º Step: Create a key to access the spreadsheet.
  
+ [![](http://img.youtube.com/vi/l_2fR27DI8o/0.jpg)](http://www.youtube.com/watch?v=l_2fR27DI8o "4º Step: Create a key to access the spreadsheet.")
  
  
  </li>
