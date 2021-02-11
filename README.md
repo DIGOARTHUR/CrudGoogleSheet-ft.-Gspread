@@ -153,16 +153,19 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
 <li>
 7th Step: Open PyCharm, New Project and Choose virtual environment venv
+ 
 [![](http://img.youtube.com/vi/Qx6lPWrOBcw/0.jpg)](http://www.youtube.com/watch?v=Qx6lPWrOBcw "7th Step: Open PyCharm, New Project and Choose virtual environment venv")
 </li>
 
 <li>
 8th Step: Install Gspread API in the virtual environment of the project so that it is possible to import into Python. Wait for installation ...
+ 
   [![](http://img.youtube.com/vi/8vtuRhCQV68/0.jpg)](http://www.youtube.com/watch?v=8vtuRhCQV68 "8th Step: Install Gspread API.")
 </li>
 
 <li>
 9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.
+ 
   [![](http://img.youtube.com/vi/DVp5aWZMY-8/0.jpg)](http://www.youtube.com/watch?v=DVp5aWZMY-8 "9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.")
  
 </li>
