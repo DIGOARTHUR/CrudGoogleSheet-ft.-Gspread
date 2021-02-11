@@ -67,7 +67,7 @@ Here we will show you step by step from creating a project on Google Cloud Platf
 <ul>
 
 <li>
- 1º Step: Creating a project on Google Cloud Platform
+ 1st Step: Creating a project on Google Cloud Platform
  
   
 Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access to spreadsheets</a> 
@@ -84,7 +84,7 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
  
  <li>
-   2º Step: Enable the APIs
+   2nd Step: Enable the APIs
  
   <p align="center">
  
@@ -95,7 +95,7 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
  </li>
  
  <li>
- 3º Step: Creation of credentials to generate the spreadsheet access certificate using a key.
+ 3rd Step: Creation of credentials to generate the spreadsheet access certificate using a key.
  
   <p align="center">
  
@@ -106,7 +106,7 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
  </li>
  
  <li>
- 4º Step: Create a key to access the spreadsheet.
+ 4th Step: Create a key to access the spreadsheet.
  
  [![](http://img.youtube.com/vi/l_2fR27DI8o/0.jpg)](http://www.youtube.com/watch?v=l_2fR27DI8o "4º Step: Create a key to access the spreadsheet.")
  
@@ -115,11 +115,54 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
 </ul>
 
+
+
+
 <p>
-<img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107302685-7c4eb300-6a5c-11eb-9020-c56443bd93d7.png"></img> 
+ <img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107302685-7c4eb300-6a5c-11eb-9020-c56443bd93d7.png"></img> 
 | PyCharm |
 </p>
 
+
+<ul>
+<li>
+ 5th Step: Download PyCharm
+ <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows"  target="_blank">Download</a> 
+ 
+ 
+  <p align="center">
+  <img  alt="img_downloadPyCharm"  width="800" height="400" src="https://user-images.githubusercontent.com/59892368/107673911-2dc83100-6c75-11eb-92b5-949672e8c788.PNG"></img>
+</p>
+ 
+ 
+</li>
+
+<li>
+6th Step: Open PyCharm, New Project and Choose virtual environment venv
+  (VIDEO)
+</li>
+
+<li>
+7th Step: Install Gspread API in the virtual environment of the project so that it is possible to import into Python. Wait for installation ...
+  (VIDEO)
+</li>
+
+<li>
+8th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.
+  (VIDEO)
+ 
+</li>
+
+
+
+<li>
+9th Step: Start writing Python code. Import Gspread, configure it to access the spreadsheet using the JSON file and the spreadsheet's URL key and create an object directed to the tab you want to work with. Come on:
+ 
+(VIDEO)
+</li>
+
+
+</ul>
 
 <!-- ------------------------------------------------------------------------------------->
 <!-- -------------------------------------------- CREATE GSPREAD  ------------------------>
