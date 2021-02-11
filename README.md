@@ -116,17 +116,31 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 </ul>
 
 
+<p>
+<img  alt="icon_GoogleSheets"  width="18" height="25" src="https://user-images.githubusercontent.com/59892368/107689797-1181bf80-6c88-11eb-8b71-3af7d1c8216b.png"></img> 
+| GoogleSheets |
+</p>
+
+<ul>
+
+<li>
+ 5th Step: Create GoogleSheets and configure the communication between the spreadsheet and the Python code using an email contained in the JSON file. Let's see:
+ 
+ (VIDEO)
+</li>
+</ul>
+
 
 
 <p>
- <img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107302685-7c4eb300-6a5c-11eb-9020-c56443bd93d7.png"></img> 
+ <img  alt="icon_PyCharm"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107302685-7c4eb300-6a5c-11eb-9020-c56443bd93d7.png"></img> 
 | PyCharm |
 </p>
 
 
 <ul>
 <li>
- 5th Step: Download PyCharm
+ 6th Step: Download PyCharm
  <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows"  target="_blank">Download</a> 
  
  
@@ -138,17 +152,17 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 </li>
 
 <li>
-6th Step: Open PyCharm, New Project and Choose virtual environment venv
+7th Step: Open PyCharm, New Project and Choose virtual environment venv
   (VIDEO)
 </li>
 
 <li>
-7th Step: Install Gspread API in the virtual environment of the project so that it is possible to import into Python. Wait for installation ...
+8th Step: Install Gspread API in the virtual environment of the project so that it is possible to import into Python. Wait for installation ...
   (VIDEO)
 </li>
 
 <li>
-8th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.
+9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.
   (VIDEO)
  
 </li>
@@ -156,7 +170,7 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
 
 <li>
-9th Step: Start writing Python code. Import Gspread, configure it to access the spreadsheet using the JSON file and the spreadsheet's URL key and create an object directed to the tab you want to work with. Come on:
+10th Step: Start writing Python code. Import Gspread, configure it to access the spreadsheet using the JSON file and the spreadsheet's URL key and create an object directed to the tab you want to work with. Come on:
  
 (VIDEO)
 </li>
