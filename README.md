@@ -72,11 +72,11 @@ Here we will show you step by step from creating a project on Google Cloud Platf
   
 Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access to spreadsheets</a> 
 
-  <p align="center">
+
  
  [![](http://img.youtube.com/vi/8MxU4oGMolw/0.jpg)](http://www.youtube.com/watch?v=8MxU4oGMolw "1º Step: Creating a project on Google Cloud Platform")
 
-</p>
+
  
  
  </li>
@@ -86,22 +86,22 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
  <li>
    2nd Step: Enable the APIs
  
-  <p align="center">
+  
  
   [![](http://img.youtube.com/vi/DSTv81_Oy9w/0.jpg)](http://www.youtube.com/watch?v=DSTv81_Oy9w "2º Step: Enable the APIs")
   
-</p>
+
  
  </li>
  
  <li>
  3rd Step: Creation of credentials to generate the spreadsheet access certificate using a key.
  
-  <p align="center">
+  
  
   [![](http://img.youtube.com/vi/B0IUTBZtQTM/0.jpg)](http://www.youtube.com/watch?v=B0IUTBZtQTM "3º Step: Creation of credentials to generate the spreadsheet access certificate using a key.")
   
-</p>
+
  
  </li>
  
