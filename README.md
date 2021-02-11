@@ -126,7 +126,7 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 <li>
  5th Step: Create GoogleSheets and configure the communication between the spreadsheet and the Python code using an email contained in the JSON file. Let's see:
  
- (VIDEO)
+[![](http://img.youtube.com/vi/IlrTWZdEfWs/0.jpg)](http://www.youtube.com/watch?v=IlrTWZdEfWs " 5th Step: Create GoogleSheets and configure the communication between the spreadsheet and the Python code using an email contained in the JSON file.")
 </li>
 </ul>
 
@@ -153,17 +153,17 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
 <li>
 7th Step: Open PyCharm, New Project and Choose virtual environment venv
-  (VIDEO)
+[![](http://img.youtube.com/vi/Qx6lPWrOBcw/0.jpg)](http://www.youtube.com/watch?v=Qx6lPWrOBcw "7th Step: Open PyCharm, New Project and Choose virtual environment venv")
 </li>
 
 <li>
 8th Step: Install Gspread API in the virtual environment of the project so that it is possible to import into Python. Wait for installation ...
-  (VIDEO)
+  [![](http://img.youtube.com/vi/8vtuRhCQV68/0.jpg)](http://www.youtube.com/watch?v=8vtuRhCQV68 "8th Step: Install Gspread API.")
 </li>
 
 <li>
 9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.
-  (VIDEO)
+  [![](http://img.youtube.com/vi/DVp5aWZMY-8/0.jpg)](http://www.youtube.com/watch?v=DVp5aWZMY-8 "9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.")
  
 </li>
 
