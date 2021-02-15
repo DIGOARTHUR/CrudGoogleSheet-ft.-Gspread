@@ -10,7 +10,31 @@
  
  <li>
   <h3><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#--creating-your-application-">Creating your application</a></h3>
+  <ul>
+    <li>
+       <h4><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#---google-cloud-platform-"> | Google Cloud Platform |</a></h4>
+     </li>
+   
+   <li>
+       <h4><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#--googlesheets-"> | GoogleSheets |</a></h4>
+     </li>
+  
+  <li>
+       <h4><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#---pycharm-">| PyCharm |</a></h4>
+     </li>
+     
+   </ul>
+ 
  </li>
+ 
+  <li>
+  <h3><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#--gspread-">Gspread</a></h3>
+
+  </li>
+  
+   <li>
+ <h3><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#sources">Sources</a></h3>
+  </li>
  
  
 </ul>
