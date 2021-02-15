@@ -78,10 +78,12 @@ The file available here can be reused as long as you change the SpreadSheets acc
 
 Here we will show you step by step from creating a project on Google Cloud Platform to use the APIs to running the Python program interacting with GoogleSheets.
 
-<p>
-<img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107301296-fdf11180-6a59-11eb-9315-a3eb7fade08b.png"></img> 
-| Google Cloud Platform |
+
+
+ <p>
+    <h5 align="rigth"> <img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107301296-fdf11180-6a59-11eb-9315-a3eb7fade08b.png"></img> | Google Cloud Platform |</h5>
 </p>
+
 
 <ul>
 
