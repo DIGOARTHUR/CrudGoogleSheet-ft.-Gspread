@@ -1,6 +1,6 @@
 # Py-01-DesafioTunts [Estágio Processo Seletivo 2021]  <img  alt="skills"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106386750-4acb4d00-63b5-11eb-8d43-be0469cc0a3c.PNG">
 
->Using the Google spreadsheet and the 'gspread' API, an automation was made using the Python language for reading, analyzing and inserting data in a specific data spreadsheet available here. I will take the opportunity to leave the entire documented process and examples so that anyone can do it. Use your creativity and experience and come on!
+>Using the Google spreadsheet and the 'gspread' API, an automation was made using the Python language for reading, analyzing and inserting data in a specific data spreadsheet available here. I will take the opportunity to leave the entire documented process and examples so that anyone can do it. Use your creativity and experience. Come on!
  
    <h1 align="rigth"> <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/107999728-e6b8a380-6fc6-11eb-82d1-aa090feabaf3.png"></img> Summary</h1>
 <ul>
