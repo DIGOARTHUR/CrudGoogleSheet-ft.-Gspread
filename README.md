@@ -168,6 +168,9 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
  
   [![](http://img.youtube.com/vi/DVp5aWZMY-8/0.jpg)](http://www.youtube.com/watch?v=DVp5aWZMY-8 "9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.")
  
+
+ 
+ 
 </li>
 
 
@@ -175,7 +178,20 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 <li>
 10th Step: Start writing Python code. Import Gspread, configure it to access the spreadsheet using the JSON file and the spreadsheet's URL key and create an object directed to the tab you want to work with. Come on:
  
-(VIDEO)
+[![](http://img.youtube.com/vi/gvdN_d7WHEE/0.jpg)](http://www.youtube.com/watch?v=gvdN_d7WHEE "10thStep: Start writing Python code. Import Gspread, config. JSON file and the spreadsheet's URL key")
+
+
+~~~ python
+#importing gspread library
+import gspread
+
+#here, access to the credentials file, which contains all the data for the connection. Python <->GoogleCloudPlatform<->Spreadsheet
+gc = gspread.service_account(filename='credentials.json') 
+
+#specifies the spreadsheet using the URL key.
+sh= gc.open_by_key('1TDlSR0yofAQsg7hpYjWUPbCXihbJAfIeySQdOYAet8I') 
+~~~
+
 </li>
 
 
