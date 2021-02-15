@@ -13,11 +13,6 @@
  </li>
  
  
- 
- 
- 
- 
- 
 </ul>
 
 
@@ -153,9 +148,10 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
 
 
+
+
 <p>
- <img  alt="icon_PyCharm"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107302685-7c4eb300-6a5c-11eb-9020-c56443bd93d7.png"></img> 
-| PyCharm |
+ <h5 align="rigth"> <img  alt="icon_PyCharm"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107302685-7c4eb300-6a5c-11eb-9020-c56443bd93d7.png"></img> | PyCharm |</h5>
 </p>
 
 
