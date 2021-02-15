@@ -176,12 +176,9 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
 
 <li>
-10th Step: Start writing Python code. Import Gspread, configure it to access the spreadsheet using the JSON file and the spreadsheet's URL key and create an object directed to the tab you want to work with. Come on:
+10th Step: Start writing Python code. Import Gspread, configure it to access the spreadsheet using the JSON file and the spreadsheet's URL key. Come on:
  
-[![](http://img.youtube.com/vi/gvdN_d7WHEE/0.jpg)](http://www.youtube.com/watch?v=gvdN_d7WHEE "10thStep: Start writing Python code. Import Gspread, config. JSON file and the spreadsheet's URL key")
-
-
-~~~ python
+ ~~~ python
 #importing gspread library
 import gspread
 
@@ -191,8 +188,43 @@ gc = gspread.service_account(filename='credentials.json')
 #specifies the spreadsheet using the URL key.
 sh= gc.open_by_key('1TDlSR0yofAQsg7hpYjWUPbCXihbJAfIeySQdOYAet8I') 
 ~~~
+ 
+ 
+[![](http://img.youtube.com/vi/gvdN_d7WHEE/0.jpg)](http://www.youtube.com/watch?v=gvdN_d7WHEE "10thStep: Start writing Python code. Import Gspread, config. JSON file and the spreadsheet's URL key")
+
+
+
 
 </li>
+
+
+
+<li>
+ 11th Step: Proceeding with the same code. Create an object directed to the sheet you wanted to work with. We will start by accessing sheet1, soon we will see how to create and access other sheets.
+ 
+ ~~~ python
+ #....
+ worksheet = sh.sheet1   #Access by sheet name.
+ 
+ #OR
+ 
+ worksheet = sh.get_worksheet(0) # Access by the index of each sheet.
+ 
+~~~
+
+ <h1 align="center"> <img  alt="icon_API_Gspread"  width="300" height="300" src="https://user-images.githubusercontent.com/59892368/107996958-6f801100-6fc0-11eb-810d-3b2fb7ec18d5.png"></img></h1>
+
+
+
+
+
+ 
+</li>
+<li>
+ Done ! We can now play with all the CRUD functions in the worksheet through the created object called here as "worksheet."
+</li> 
+
+
 
 
 </ul>
