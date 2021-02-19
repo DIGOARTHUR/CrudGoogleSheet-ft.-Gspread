@@ -317,9 +317,9 @@ worksheet = sh.get_worksheet(0)
                                             
 worksheet = sh.add_worksheet(title="A worksheet", rows="25", cols="7")
 
-#rows= Number of rows
-
-#cols=#Number of columns 
+#tittle = Spreadsheet name
+#rows = Number of rows
+#cols = Number of columns 
 ~~~
  
  
@@ -351,6 +351,15 @@ val = worksheet.cell(1, 2).value
  <li>
  <img  alt="icon_Update"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475083-5174c580-6484-11eb-99f2-f7b54af686d6.png"></img> Update
  </li>
+ 
+ ~~~ python
+ ...
+
+worksheet = sh.get_worksheet(0)
+   
+val = worksheet.cell(1, 2).value
+                                                 
+~~~
  
  <li>
  <img  alt="icon_Delete"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475088-52a5f280-6484-11eb-9bb1-0c3a62a494bc.png"></img> Delete
