@@ -283,9 +283,28 @@ sh= gc.open_by_key('1TDlSR0yofAQsg7hpYjWUPbCXihbJAfIeySQdOYAet8I')
 <!-- ------------------------------------------------------------------------------------->
 <!-- -------------------------------------------- CREATE GSPREAD  ------------------------>
 <!-- ------------------------------------------------------------------------------------->
+ 
+
+ 
  <p>
-    <h1 align="rigth"> <img  alt="icon_API_Gspread"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/106465617-f4274700-6478-11eb-84ff-02f8a39fbc69.png"></img> GSPREAD </h1> Gspread is an API that allows access to Google Spreadsheet, being for:
+    <h1 align="rigth"> <img  alt="icon_API_Gspread"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/106465617-f4274700-6478-11eb-84ff-02f8a39fbc69.png"></img> GSPREAD </h1>
 </p>
+
+ >Gspread is an API that allows access to Google Spreadsheet, being for.
+
+Following the steps of previous configurations, the starting point for using the Gspread functions is from this code:
+
+~~~ python
+import gspread
+
+gc = gspread.service_account(filename='credentials.json')
+
+sh= gc.open_by_key('1TDlSR0yofAQsg7hpYjWUPbCXihbJAfIeySQdOYAet8I')
+
+worksheet = sh.get_worksheet(0)
+ 
+~~~
+
 
 
 <ul>
@@ -311,8 +330,14 @@ sh= gc.open_by_key('1TDlSR0yofAQsg7hpYjWUPbCXihbJAfIeySQdOYAet8I')
 <!-- ------------------------------------------------------------------------------------->
 <!-- -------------------------------------------- SOURCES  ------------------------>
 <!-- ------------------------------------------------------------------------------------->
-<h3><img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106905459-11f3e680-66db-11eb-9c4d-6b45c1cb8c16.png"></img>
-SOURCES:</h3>
+
+<h3 align="center"><img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106905459-11f3e680-66db-11eb-9c4d-6b45c1cb8c16.png"></img>BIBLIOGRAPHY:</h3>
+
+<p > 1. PYTHON ENGINEER. Google Sheets and Python - Tutorial, 2020. Available in: < <a href="https://youtu.be/T1vqS1NL89E">https://youtu.be/T1vqS1NL89E</a> > . Access in: 29 de jan. de 2021.   </p>
+
+<p > 2. GSPREAD. Read the Docs, 2021. Home page. Available in: < <a href="https://gspread.readthedocs.io/en/latest/">https://gspread.readthedocs.io/en/latest/</a> > . Access in: 29 de jan. de 2021.   </p>
+
+
 
 <h2><img  alt="icon_CreatingApplication"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/106508490-37021280-64ab-11eb-81e0-3ca45e0eb38a.png"></img>
 ... SOON MORE DOCUMENTATION UPDATES</h1>
