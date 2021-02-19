@@ -159,14 +159,15 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
 
 <p>
-<h5><img  alt="icon_GoogleSheets"  width="18" height="25" src="https://user-images.githubusercontent.com/59892368/107689797-1181bf80-6c88-11eb-8b71-3af7d1c8216b.png"></img> 
-| GoogleSheets |</h5>
+<h3><img  alt="icon_GoogleSheets"  width="18" height="25" src="https://user-images.githubusercontent.com/59892368/107689797-1181bf80-6c88-11eb-8b71-3af7d1c8216b.png"></img> 
+| GoogleSheets |</h3>
 </p>
 
 <ul>
 
 <li>
- 5th Step: Create GoogleSheets and configure the communication between the spreadsheet and the Python code using an email contained in the JSON file. Let's see:
+  <h3>5th Step: Create GoogleSheets and configure the communication between the spreadsheet and the Python code using an email contained in the JSON file. Let's see:  </h3>
+ 
  
 [![](http://img.youtube.com/vi/IlrTWZdEfWs/0.jpg)](http://www.youtube.com/watch?v=IlrTWZdEfWs " 5th Step: Create GoogleSheets and configure the communication between the spreadsheet and the Python code using an email contained in the JSON file.")
 </li>
@@ -177,13 +178,14 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
 
 <p>
- <h5 align="rigth"> <img  alt="icon_PyCharm"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107302685-7c4eb300-6a5c-11eb-9020-c56443bd93d7.png"></img> | PyCharm |</h5>
+ <h3 align="rigth"> <img  alt="icon_PyCharm"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107302685-7c4eb300-6a5c-11eb-9020-c56443bd93d7.png"></img> | PyCharm |</h3>
 </p>
 
 
 <ul>
 <li>
- 6th Step: Download PyCharm
+  <h3>6th Step: Download PyCharm  </h3>
+ 
  <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows"  target="_blank">Download</a> 
  
  
@@ -195,19 +197,22 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 </li>
 
 <li>
-7th Step: Open PyCharm, New Project and Choose virtual environment venv
+  <h3>7th Step: Open PyCharm, New Project and Choose virtual environment venv  </h3>
+
  
 [![](http://img.youtube.com/vi/Qx6lPWrOBcw/0.jpg)](http://www.youtube.com/watch?v=Qx6lPWrOBcw "7th Step: Open PyCharm, New Project and Choose virtual environment venv")
 </li>
 
 <li>
-8th Step: Install Gspread API in the virtual environment of the project so that it is possible to import into Python. Wait for installation ...
+  <h3>8th Step: Install Gspread API in the virtual environment of the project so that it is possible to import into Python. Wait for installation ...  </h3>
+
  
   [![](http://img.youtube.com/vi/8vtuRhCQV68/0.jpg)](http://www.youtube.com/watch?v=8vtuRhCQV68 "8th Step: Install Gspread API.")
 </li>
 
 <li>
-9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.
+  <h3>9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.  </h3>
+
  
   [![](http://img.youtube.com/vi/DVp5aWZMY-8/0.jpg)](http://www.youtube.com/watch?v=DVp5aWZMY-8 "9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.")
  
@@ -219,7 +224,8 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 
 
 <li>
-10th Step: Start writing Python code. Import Gspread, configure it to access the spreadsheet using the JSON file and the spreadsheet's URL key. Come on:
+  <h3>10th Step: Start writing Python code. Import Gspread, configure it to access the spreadsheet using the JSON file and the spreadsheet's URL key. Come on:  </h3>
+
  
  ~~~ python
 #importing gspread library
@@ -243,7 +249,8 @@ sh= gc.open_by_key('1TDlSR0yofAQsg7hpYjWUPbCXihbJAfIeySQdOYAet8I')
 
 
 <li>
- 11th Step: Proceeding with the same code. Create an object directed to the sheet you wanted to work with. We will start by accessing sheet1, soon we will see how to create and access other sheets.
+  <h3> 11th Step: Proceeding with the same code. Create an object directed to the sheet you wanted to work with. We will start by accessing sheet1, soon we will see how to create and access other sheets.  </h3>
+
  
  ~~~ python
  #....
@@ -264,7 +271,8 @@ sh= gc.open_by_key('1TDlSR0yofAQsg7hpYjWUPbCXihbJAfIeySQdOYAet8I')
  
 </li>
 <li>
- Done ! We can now play with all the CRUD functions in the worksheet through the created object called here as "worksheet."
+  <h3>Done ! We can now play with all the CRUD functions in the worksheet through the created object called here as "worksheet."  </h3>
+ 
 </li> 
 
 
