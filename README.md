@@ -380,7 +380,7 @@ val = worksheet.cell(1, 2).value
 
 <hr>
 <p>
-<h1> <img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/108534741-3fcf5280-72b9-11eb-9d14-e7679c5d81ec.png"></img> I thank Tunts for providing me with this challenge!  </h1>
+<h1> <img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/108534741-3fcf5280-72b9-11eb-9d14-e7679c5d81ec.png"></img> I thank Tunts for providing me this challenge!  </h1>
 <h2>I put myself in this duty, and I did it! </h2>
 </p>
 
