@@ -110,7 +110,7 @@ Here we will show you step by step from creating a project on Google Cloud Platf
 <h3> 1st Step: Creating a project on Google Cloud Platform</h3>
   
   
-Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access to spreadsheets</a> 
+Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access Google Cloud Platform</a> 
 
 
  
