@@ -366,9 +366,10 @@ val = worksheet.cell(1, 2).value
 
 <p > 2. GSPREAD. Read the Docs, 2021. Home page. Available in: <<a href="https://gspread.readthedocs.io/en/latest/">https://gspread.readthedocs.io/en/latest/</a>> . Access in: 29 de jan. de 2021.   </p>
 
-
+<hr>
 <p>
-<h1> <img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/108534741-3fcf5280-72b9-11eb-9d14-e7679c5d81ec.png"></img> I thank Tunts for providing me with this challenge! I put myself in this duty, and I did it! </h1>
+<h1> <img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/108534741-3fcf5280-72b9-11eb-9d14-e7679c5d81ec.png"></img> I thank Tunts for providing me with this challenge!  </h1>
+<h2>I put myself in this duty, and I did it! </h2>
 </p>
 
 <h2><img  alt="icon_CreatingApplication"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/106508490-37021280-64ab-11eb-81e0-3ca45e0eb38a.png"></img>
