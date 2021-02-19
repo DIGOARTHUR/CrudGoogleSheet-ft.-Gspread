@@ -314,9 +314,12 @@ worksheet = sh.get_worksheet(0)
  
  ~~~ python
  ...
-                                          #Number of rows  #Number of columns 
+                                            
 worksheet = sh.add_worksheet(title="A worksheet", rows="25", cols="7")
-                                                 
+
+#rows= Number of rows
+
+#cols=#Number of columns 
 ~~~
  
  
