@@ -100,14 +100,14 @@ Here we will show you step by step from creating a project on Google Cloud Platf
 
 
  <p>
-    <h5 align="rigth"> <img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107301296-fdf11180-6a59-11eb-9315-a3eb7fade08b.png"></img> | Google Cloud Platform |</h5>
+    <h3 align="rigth"> <img  alt="icon_Ideia"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/107301296-fdf11180-6a59-11eb-9315-a3eb7fade08b.png"></img> | Google Cloud Platform |</h3>
 </p>
 
 
 <ul>
 
 <li>
- 1st Step: Creating a project on Google Cloud Platform
+<h3> 1st Step: Creating a project on Google Cloud Platform</h3>
  
   
 Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access to spreadsheets</a> 
