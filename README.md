@@ -312,6 +312,14 @@ worksheet = sh.get_worksheet(0)
  <img  alt="icon_Create"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106473765-f1c9ea80-6482-11eb-9b4d-ba4c77baa29f.png"></img> Creation
  </li>
  
+ ~~~ python
+ ...
+                                          #Number of rows  #Number of columns 
+worksheet = sh.add_worksheet(title="A worksheet", rows="25", cols="7")
+                                                 
+~~~
+ 
+ 
  <li>
   <img  alt="icon_Read"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475094-546fb600-6484-11eb-85b6-127f64e7b574.png"></img> Read
  </li>
@@ -333,9 +341,9 @@ worksheet = sh.get_worksheet(0)
 
 <h3 align="center"><img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106905459-11f3e680-66db-11eb-9c4d-6b45c1cb8c16.png"></img>BIBLIOGRAPHY:</h3>
 
-<p > 1. PYTHON ENGINEER. Google Sheets and Python - Tutorial, 2020. Available in: < <a href="https://youtu.be/T1vqS1NL89E">https://youtu.be/T1vqS1NL89E</a> > . Access in: 29 de jan. de 2021.   </p>
+<p > 1. PYTHON ENGINEER. Google Sheets and Python - Tutorial, 2020. Available in: <<a href="https://youtu.be/T1vqS1NL89E">https://youtu.be/T1vqS1NL89E</a>> . Access in: 29 de jan. de 2021.   </p>
 
-<p > 2. GSPREAD. Read the Docs, 2021. Home page. Available in: < <a href="https://gspread.readthedocs.io/en/latest/">https://gspread.readthedocs.io/en/latest/</a> > . Access in: 29 de jan. de 2021.   </p>
+<p > 2. GSPREAD. Read the Docs, 2021. Home page. Available in: <<a href="https://gspread.readthedocs.io/en/latest/">https://gspread.readthedocs.io/en/latest/</a>> . Access in: 29 de jan. de 2021.   </p>
 
 
 
