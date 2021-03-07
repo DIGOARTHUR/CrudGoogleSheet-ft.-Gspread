@@ -372,7 +372,7 @@ val = worksheet.cell(1, 2).value
 <!-- -------------------------------------------- SOURCES  ------------------------>
 <!-- ------------------------------------------------------------------------------------->
 
-<h3 align="center"><img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106905459-11f3e680-66db-11eb-9c4d-6b45c1cb8c16.png"></img>BIBLIOGRAPHY:</h3>
+<h3 align="center"><img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106905459-11f3e680-66db-11eb-9c4d-6b45c1cb8c16.png"></img>REFERENCE:</h3>
 
 <p > 1. PYTHON ENGINEER. Google Sheets and Python - Tutorial, 2020. Available in: <<a href="https://youtu.be/T1vqS1NL89E">https://youtu.be/T1vqS1NL89E</a>> . Access in: 29 de jan. de 2021.   </p>
 
