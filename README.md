@@ -61,6 +61,8 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
    <li><img  alt="img_CommandPropt"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106384969-86154e00-63ac-11eb-9c87-ce0e8d227ef6.png"></img> Open CMD, type or copy and paste " pip install gspread " and press Enter. [Obs: The execution has to be as administrator.]
    <p align="center">
    <img  alt="gif_"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/106384311-ee623080-63a8-11eb-9bf6-da6618680e6d.gif"></img>
+   
+   
 </p>
    </li>
   
@@ -113,11 +115,7 @@ Here we will show you step by step from creating a project on Google Cloud Platf
 Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access Google Cloud Platform</a> 
 
 
- 
- [![](http://img.youtube.com/vi/8MxU4oGMolw/0.jpg)](http://www.youtube.com/watch?v=8MxU4oGMolw "1º Step: Creating a project on Google Cloud Platform")
-
-
- 
+ <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115083007-26bfd800-9edd-11eb-99e8-f74586e532d1.mp4"></video>
  
  </li>
 
@@ -127,8 +125,9 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
   <h3>2nd Step: Enable the APIs  </h3>
  
   
+ <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115083311-8ae29c00-9edd-11eb-9bdf-595b319ec31f.mp4"></video>
  
-  [![](http://img.youtube.com/vi/DSTv81_Oy9w/0.jpg)](http://www.youtube.com/watch?v=DSTv81_Oy9w "2º Step: Enable the APIs")
+ 
   
 
  
@@ -138,10 +137,10 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
   <h3>3rd Step: Creation of credentials to generate the spreadsheet access certificate using a key.  </h3>
  
  
-  
+    
+ <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115083985-9b474680-9ede-11eb-8f40-af7c6fc72d1d.mp4"></video>
  
-  [![](http://img.youtube.com/vi/B0IUTBZtQTM/0.jpg)](http://www.youtube.com/watch?v=B0IUTBZtQTM "3º Step: Creation of credentials to generate the spreadsheet access certificate using a key.")
-  
+
 
  
  </li>
@@ -150,7 +149,9 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
   <h3> 4th Step: Create a key to access the spreadsheet.  </h3>
 
  
- [![](http://img.youtube.com/vi/l_2fR27DI8o/0.jpg)](http://www.youtube.com/watch?v=l_2fR27DI8o "4º Step: Create a key to access the spreadsheet.")
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115084001-a0a49100-9ede-11eb-98ef-02724b76d05a.mp4"></video>
+ 
+ 
  
  
  </li>
@@ -168,8 +169,11 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
 <li>
   <h3>5th Step: Create GoogleSheets and configure the communication between the spreadsheet and the Python code using an email contained in the JSON file. Let's see:  </h3>
  
+  
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115084008-a39f8180-9ede-11eb-9216-aca9c4380091.mp4"></video>
  
-[![](http://img.youtube.com/vi/IlrTWZdEfWs/0.jpg)](http://www.youtube.com/watch?v=IlrTWZdEfWs " 5th Step: Create GoogleSheets and configure the communication between the spreadsheet and the Python code using an email contained in the JSON file.")
+ 
+
 </li>
 </ul>
 
@@ -200,24 +204,28 @@ Link access: <a href="https://console.cloud.google.com/home/dashboard"  >Access 
   <h3>7th Step: Open PyCharm, New Project and Choose virtual environment venv  </h3>
 
  
-[![](http://img.youtube.com/vi/Qx6lPWrOBcw/0.jpg)](http://www.youtube.com/watch?v=Qx6lPWrOBcw "7th Step: Open PyCharm, New Project and Choose virtual environment venv")
+   <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115084019-a7330880-9ede-11eb-99ba-1c09dad542c9.mp4"></video>
+ 
+
 </li>
 
 <li>
   <h3>8th Step: Install Gspread API in the virtual environment of the project so that it is possible to import into Python. Wait for installation ...  </h3>
 
+
  
-  [![](http://img.youtube.com/vi/8vtuRhCQV68/0.jpg)](http://www.youtube.com/watch?v=8vtuRhCQV68 "8th Step: Install Gspread API.")
+   <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115084024-a9956280-9ede-11eb-8f71-a74a7caf95b8.mp4"></video>
+ 
+ 
 </li>
 
 <li>
   <h3>9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.  </h3>
+ 
+   <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115084035-ab5f2600-9ede-11eb-9caa-8b7982e7590f.mp4"></video>
+ 
 
- 
-  [![](http://img.youtube.com/vi/DVp5aWZMY-8/0.jpg)](http://www.youtube.com/watch?v=DVp5aWZMY-8 "9th Step: Rename JSON file of the 4th step and insert in the project that is in PyCharm.")
- 
 
- 
  
 </li>
 
@@ -239,9 +247,10 @@ sh= gc.open_by_key('1TDlSR0yofAQsg7hpYjWUPbCXihbJAfIeySQdOYAet8I')
 ~~~
  
  
-[![](http://img.youtube.com/vi/gvdN_d7WHEE/0.jpg)](http://www.youtube.com/watch?v=gvdN_d7WHEE "10thStep: Start writing Python code. Import Gspread, config. JSON file and the spreadsheet's URL key")
-
-
+ 
+ <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115084044-aef2ad00-9ede-11eb-9084-86e6351d366e.mp4"></video>
+ 
+ 
 
 
 </li>
@@ -386,7 +395,7 @@ val = worksheet.cell(1, 2).value
 </p>
 
 <h1><img  alt="icon_CreatingApplication"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/106508490-37021280-64ab-11eb-81e0-3ca45e0eb38a.png"></img>
-... SOON MORE DOCUMENTATION UPDATES</h1>
+
  
  
  
