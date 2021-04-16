@@ -373,10 +373,21 @@ val = worksheet.cell(1, 2).value
  <li>
  <img  alt="icon_Delete"  width="25" height="25" src="https://user-images.githubusercontent.com/59892368/106475088-52a5f280-6484-11eb-9bb1-0c3a62a494bc.png"></img> Delete
  </li>
+ 
+  ~~~ python
+ ...
+
+worksheet = sh.get_worksheet(0)
+   
+worksheet.delete_row(10)
+                                                 
+~~~
+ 
+ 
 
 </ul>
 
-<video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/107162960-602c1280-6985-11eb-8879-474140effe21.mp4"></video>
+
 <!-- ------------------------------------------------------------------------------------->
 <!-- -------------------------------------------- SOURCES  ------------------------>
 <!-- ------------------------------------------------------------------------------------->
