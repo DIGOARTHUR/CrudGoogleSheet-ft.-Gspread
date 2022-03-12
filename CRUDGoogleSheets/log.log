@@ -1,0 +1,15 @@
+2022-03-12 17:02:14,775:main.py:INFO:Connecting Google Sheets Engenharia de Software Desafio [Diego Arthur]
+2022-03-12 17:02:14,775:main.py:INFO:Read Student enrollment: 1
+2022-03-12 17:02:15,092:main.py:INFO:   Checking Frequency
+2022-03-12 17:02:15,092:main.py:INFO:   Checking Score
+2022-03-12 17:02:16,128:main.py:INFO:       Update Situation
+2022-03-12 17:02:17,265:main.py:INFO:           Score for final exam
+2022-03-12 17:02:17,265:main.py:INFO:Read Student enrollment: 2
+2022-03-12 17:02:17,598:main.py:INFO:   Checking Frequency
+2022-03-12 17:02:17,599:main.py:INFO:   Checking Score
+2022-03-12 17:02:18,593:main.py:INFO:       Update Situation
+2022-03-12 17:02:19,914:main.py:INFO:           Score for final exam
+2022-03-12 17:02:19,915:main.py:INFO:Read Student enrollment: 3
+2022-03-12 17:02:20,223:main.py:INFO:   Checking Frequency
+2022-03-12 17:02:20,223:main.py:INFO:   Checking Score
+2022-03-12 17:02:21,211:main.py:INFO:       Update Situation

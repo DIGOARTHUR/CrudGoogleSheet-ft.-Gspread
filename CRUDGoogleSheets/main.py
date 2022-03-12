@@ -10,7 +10,7 @@ logger = logging.getLogger('root')
 def connectGoogleSheets():
 
     gc = gspread.service_account(filename='credentials.json')  # API connection
-    sh = gc.open_by_key('1Zeb0XsDxwcDERDv86uqenam2hBoerbu0Sagk6q4CzZ0')  # table id GoogleSheets
+    sh = gc.open_by_key('1gI7G6xh6H4_2lz1yujChxiZfdYda3PURjmDmLugD2CM')  # table id GoogleSheets
     worksheet = sh.sheet1  # Object that will give conditions and functions to access the table: Create, Read, Update and Delete, for example.
     logger.info('Connecting Google Sheets Engenharia de Software Desafio [Diego Arthur]')
     return worksheet
@@ -39,6 +39,14 @@ def updateSituation_checkingScore(situation):
     if situation == 1:
         worksheet.update_cell(row, 7, 'Reprovado por Nota')
         worksheet.update_cell(row, 8, 0)
+
+        colorCell = "G"+str(row)+":"+"G"+ str(row)
+        worksheet.format(colorCell, {
+            "backgroundColor": {
+            "red": 0.0,
+            "green": 0.0,
+            "blue": 1.0
+         }})
         logger.info('           Score for final exam')
     elif situation == 2:
         worksheet.update_cell(row, 7, 'Exame Final')
@@ -46,10 +54,26 @@ def updateSituation_checkingScore(situation):
         naf = str(math.ceil((50 * 2) - m))  # Being 5 <= (m + naf)/2, have
         naf = '>=' + naf
         worksheet.update_cell(row, 8, naf)
+        colorCell = "A"+str(row)+":"+"G"+ str(row)
+    
+        worksheet.format(colorCell, {
+            "backgroundColor": {
+            "red": 1.0,
+            "green": 1.0,
+            "blue": 0.6
+         }})
         logger.info('           Score for final exam')
     elif situation == 3:
         worksheet.update_cell(row, 7, 'Aprovado')
         worksheet.update_cell(row, 8, 0)
+        colorCell = "A"+str(row)+":"+"G"+ str(row)
+    
+        worksheet.format(colorCell, {
+            "backgroundColor": {
+            "red": 0.0,
+            "green": 1.0,
+            "blue": 0.0
+         }})
         logger.info('           Score for final exam')
 
 
