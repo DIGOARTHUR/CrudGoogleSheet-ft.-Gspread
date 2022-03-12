@@ -76,6 +76,11 @@ If the system does not have python 3, install python 3 via the link: <a href="ht
  <p align="center">
    <img  alt="gif_"  width="800" height="500" src="https://user-images.githubusercontent.com/59892368/106386415-a0065f00-63b3-11eb-8e86-2f55ebadf5a3.gif"></img>
 </p>
+
+
+ <p align="center">
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158033052-ccbabac1-adb3-4480-a3eb-3c40ddc7d613.mp4"></video>
+</p>
    
 </li>
 </ul>
