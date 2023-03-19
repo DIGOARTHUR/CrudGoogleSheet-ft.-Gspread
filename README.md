@@ -1,49 +1,44 @@
 # Py-01-DesafioTunts [Estágio Processo Seletivo 2021]  <img  alt="skills"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106386750-4acb4d00-63b5-11eb-8d43-be0469cc0a3c.PNG">
 
->Using the Google spreadsheet and the 'gspread' API, an automation was made using the Python language for reading, analyzing and inserting data in a specific data spreadsheet available here. I will take the opportunity to leave the entire documented process and examples so that anyone can do it. Use your creativity and experience. Come on!
+
  
-   <h1 align="rigth"> <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/107999728-e6b8a380-6fc6-11eb-82d1-aa090feabaf3.png"></img> Summary</h1>
-<ul>
- <li>
-  <h3><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#--topic-for-the-selection-process-">Topic for the selection process</a></h3>
- </li>
- 
- <li>
-  <h3><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#--creating-your-application-">Creating your application</a></h3>
-  <ul>
-    <li>
-       <h4><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#---google-cloud-platform-"> | Google Cloud Platform |</a></h4>
-     </li>
+
+ <!------------------------------------STACKS-->
+#### Stacks:
+<p align="left">
+
+ <a href="https://www.python.org"><img  alt="Python"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/226100266-f8737e64-823d-4931-ae06-e64a0856a503.svg"><a/>
+
+
+
+
+
+
+ <!------------------------------------TOOLS-->
+ #### Tools:
+ <a href="https://www.jetbrains.com/pycharm/"><img  alt="Pycharm"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/226100500-2b181c49-6314-4772-bb33-6b7711d86096.svg"><a/>
+ <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381109-88617798-75ae-4f3a-bc4a-1210637f818c.svg"><a/>
+ <a href="https://docs.google.com/spreadsheets/u/0/"><img  alt="GoogleSheets"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/226121477-c3391608-b31a-4b5e-9b38-036467ee352b.svg"><a/>
+
    
-   <li>
-       <h4><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#--googlesheets--1"> | GoogleSheets |</a></h4>
-     </li>
+<hr> 
+
+
+
+   <!------------------------------------SUMMARY-->
+<p align="center">
+  <a href="https://github.com/DIGOARTHUR/Dashgo#--sobre-a-aplicação-">About the application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#--creating-your-application-">Creating your application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#--gspread-"> Gspread</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/DIGOARTHUR/Dashgo#-Stacks-"> Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Dashgo#-rodando-a-aplicação">References</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
-  <li>
-       <h4><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#---pycharm-">| PyCharm |</a></h4>
-     </li>
-     
-   </ul>
- 
- </li>
- 
-  <li>
-  <h3><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#--gspread-">Gspread</a></h3>
+</p>  
 
-  </li>
-  
-   <li>
- <h3><a href="https://github.com/DIGOARTHUR/Py-01-DesafioTunts-CRUDGoogleSheets-#references-1">References</a></h3>
-  </li>
- 
- 
-</ul>
+   <!------------------------------------DESCRIPTION-->
 
-
-
- <p>
-    <h5 align="rigth"> <img  alt="skills"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/106370549-bc65b580-6339-11eb-9f43-1272219dcb8b.png"></img> Topic for the selection process </h5>
-</p>
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png"> About the application <!---write here : talk a little about project: what's does, example.  -->
+> Using the Google spreadsheet and the 'gspread' API, an automation was made using the Python language for reading, analyzing and inserting data in a specific data spreadsheet available here. I will take the opportunity to leave the entire documented process and examples so that anyone can do it. Use your creativity and experience. Come on!
 
  
  <p>
@@ -391,6 +386,33 @@ worksheet.delete_row(10)
  
 
 </ul>
+
+<!-- ------------------------------------------------------------------------------------->
+<!------------------------------------LIST: STACKS , LIBS & TOOLS-->
+<!-- ------------------------------------------------------------------------------------->
+
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
+
+  
+### Linguagem
+  <a href="https://www.python.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-Python-/?logo=Python&logoColor=white&color=yellow)<a/>
+  * Language chosen to build this challenge.
+
+  
+### API
+ [`Gspread`](https://docs.gspread.org/en/v5.7.0/) 
+   * API used to access Google spreadsheets. Enabling actions of a CRUD through the Python language. 
+### Sheets
+ <a href="https://docs.google.com/spreadsheets/u/0/"> ![Alt ou título da imagem](https://img.shields.io/badge/-GoogleSheets-/?logo=GoogleSheets&logoColor=white&color=success)<a/>
+   * Spreadsheet used to manipulate the information
+ 
+ ### Versionameto
+ <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/>
+  * Tool used for code versioning.
+ ### IDE
+ <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-PyCharm-/?logo=PyCharm&logoColor=white&color=brightgreen)<a/> 
+   * Tool used to build the project.
+
 
 
 <!-- ------------------------------------------------------------------------------------->
