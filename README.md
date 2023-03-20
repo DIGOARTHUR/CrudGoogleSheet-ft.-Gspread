@@ -410,7 +410,7 @@ worksheet.delete_row(10)
  <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/>
   * Tool used for code versioning.
  ### IDE
- <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-PyCharm-/?logo=PyCharm&logoColor=white&color=brightgreen)<a/> 
+ <a href="https://www.jetbrains.com/pycharm/"> ![Alt ou título da imagem](https://img.shields.io/badge/-PyCharm-/?logo=PyCharm&logoColor=white&color=brightgreen)<a/> 
    * Tool used to build the project.
 
 
