@@ -1,7 +1,7 @@
-# Py-01-DesafioTunts [Estágio Processo Seletivo 2021]  <img  alt="skills"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/106386750-4acb4d00-63b5-11eb-8d43-be0469cc0a3c.PNG">
+ <!------------------------------------BANNER PROJECT-->
 
+ ![Banners - Desafios (1)](https://user-images.githubusercontent.com/59892368/226590448-62b2a218-588f-4a87-bae8-d5f0bf9d7977.png)
 
- 
 
  <!------------------------------------STACKS-->
 #### Stacks:
